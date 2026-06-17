@@ -64,7 +64,6 @@ Input Features:
 - Population
 - Rainfall
 - Temperature
-- GDP
 
 Output:
 
@@ -79,23 +78,3 @@ Clone the repository:
 ```bash
 git clone https://github.com/niveditarani254/water-consumption-prediction-.git
 cd water-consumption-prediction-
-
-Dashboard Preview
-
-The dashboard allows users to:
-
-Enter water consumption factors
-Generate demand predictions
-View prediction results instantly
-Explore feature importance analysis
-
-
-Future Improvements
-Real-time weather integration
-Time-series forecasting
-Advanced visualization dashboards
-Cloud deployment support
-
-
-Author
-Nivedita Rani
