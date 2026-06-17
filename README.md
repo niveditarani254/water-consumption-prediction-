@@ -1,5 +1,3 @@
-# 💧 Water Consumption Prediction System
-
 # 💧 AI-Powered Water Demand Forecasting Dashboard
 
 ## Overview
